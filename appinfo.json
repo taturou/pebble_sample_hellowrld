@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "taturou@gmail.com",
+    "longName": "HelloWorld",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "HelloWorld",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "70c88218-7447-43c3-b2a3-9588d448f3b5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
